@@ -1,0 +1,26 @@
+enable : true
+heading : Our Skills
+headingSpan : In Verticals
+title : We’ve skilled in wide range of web and Other digital market tools.
+content : Lorem, ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis magni explicabo cum aperiam recusandae sunt accusamus totam. Quidem quos fugiat sapiente numquam accusamus quas hic, itaque in libero reiciendis tempora!
+image : images/about/company-growth.png
+skillItem :
+  - itemNumber : 01-
+    itemName :  Authentication
+    itemPercent : 90%
+
+  - itemNumber : 02-
+    itemName :  Identity
+    itemPercent : 70%
+
+  - itemNumber : 03-
+    itemName :  Banking
+    itemPercent : 80%
+
+  - itemNumber : 04-
+    itemName :  Justice
+    itemPercent : 95%
+
+  - itemNumber : 05-
+    itemName :  Academy
+    itemPercent : 75%

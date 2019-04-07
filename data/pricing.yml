@@ -1,0 +1,30 @@
+enable : true
+heading : Our Greatest
+headingSpan : Plans
+pricingTable :
+  - title : Free
+    price : $0
+    time : month
+    btnURL : #
+    btnText : Interested
+    plan :
+      - planDetails : 100 Transactions
+      - planDetails : 1 Application
+
+  - title : Silver
+    price : $149
+    time : every 1000 transactions
+    btnURL : #
+    btnText : Interested
+    plan :
+      - planDetails : 1000 Transactions a month
+      - planDetails : 1 Application
+
+  - title : Gold
+    price : $199
+    time : every 3000 transactions
+    btnURL : #
+    btnText : Signup
+    plan :
+      - planDetails : 3000 Transactions a month
+      - planDetails : 1 Application

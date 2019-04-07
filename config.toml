@@ -1,0 +1,139 @@
+# gsutil cp -r public/* gs://www.crypt0.cloud
+
+baseURL = "http://www.crypt0.cloud/"
+languageCode = "en-us"
+DefaultContentLanguage = "en"
+title = "Crypt0.Cloud"
+theme = "meghna-hugo"
+summaryLength = 10
+
+[taxonomies]
+  author = "author"
+  category = "categories"
+  tag = "tags"
+
+# Menu
+[menu]
+    [[menu.nav]]
+    name = "About"
+    URL = "about"
+    weight = 2
+
+    [[menu.nav]]
+    name = "Service"
+    URL = "services"
+    weight = 3
+
+    [[menu.nav]]
+    name = "Portfolio"
+    URL = "portfolio"
+    weight = 4
+
+    [[menu.nav]]
+    name = "Team"
+    URL = "our-team"
+    weight = 5
+
+    [[menu.nav]]
+    name = "Pricing"
+    URL = "pricing"
+    weight = 6
+
+    [[menu.nav]]
+    name = "Blog"
+    URL = "blog"
+    weight = 7
+
+    [[menu.nav]]
+    name = "Contact"
+    URL = "contact-us"
+    weight = 8
+
+# Site params
+[params]
+home= "Home"
+logo = "images/logo.png"
+gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
+# Meta data
+description = "A new way to Blockchain"
+author = "Crypt0.Cloud Team"
+# Google Analitycs
+googleAnalitycsID = "UA-137866091-1"
+custom_css = ["css/custom.css"]
+
+    # Banner Section
+    [params.banner]
+    enable = true
+    bgImage = "images/slider/hero-area.jpg"
+    icon = "tf-ion-play"
+    heading = "Experience the new way to Blockchain"
+    content= "Integrating a Blockchain didnt have to be hard."
+    btn = true
+    btnText="Explore Us"
+    btnURL="#services"
+
+    # call to action
+    [params.cta]
+    enable = true
+    title = "Blockchain security without the blockchain problems"
+    content = "Redesigning the blockchain protocol to mantain all their cryptographic security without the platform issues."
+    btnURL = "#"
+    btnText = "Start a project with us"
+
+    # counter
+    [params.counter]
+    enable = true
+    bgImage = "images/backgrounds/bg-1.jpg"
+        [[params.counter.counterItem]]
+        title = "Happy Clients"
+        icon = "tf-ion-android-happy"
+        count = "5"
+
+        [[params.counter.counterItem]]
+        title = "Software Integrations"
+        icon = "tf-ion-archive"
+        count = "11"
+
+        [[params.counter.counterItem]]
+        title = "Positive feedback"
+        icon = "tf-ion-thumbsup"
+        count = "32"
+
+        [[params.counter.counterItem]]
+        title = "Music Hours"
+        icon = "tf-ion-headphone"
+        count = "1500"
+
+    # footer
+    [params.footer]
+        copyright = "Crypt0.Cloud"
+        copyrightURL = "http://www.crypt0.cloud"
+
+        # social Icons
+        #[[params.footer.socialIcon]]
+        #icon = "tf-ion-social-facebook"
+        #url = "#"
+
+        [[params.footer.socialIcon]]
+        icon = "tf-ion-social-twitter"
+        url = "http://www.twitter.com/crypt0_cloud"
+
+        #[[params.footer.socialIcon]]
+        #icon = "tf-ion-social-google-outline"
+        #url = "#"
+
+        #[[params.footer.socialIcon]]
+        #icon = "tf-ion-social-youtube"
+        #url = "#"
+
+        [[params.footer.socialIcon]]
+        icon = "tf-ion-social-linkedin"
+        url = "http://linkedin.com"
+
+        #[[params.footer.socialIcon]]
+        #icon = "tf-ion-social-dribbble-outline"
+        #url = "#"
+
+        #[[params.footer.socialIcon]]
+        #icon = "tf-ion-social-pinterest-outline"
+        #url = "#"

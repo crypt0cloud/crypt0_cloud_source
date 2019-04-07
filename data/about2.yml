@@ -1,0 +1,21 @@
+enable : true
+image : images/about/about-business-man.jpg
+title : We’re A New kind of Blockchian.
+description : With the begining of the blockchain revolution we observed that the protocol could have problems with efficiency. After evaluting for a while we proved that, nowadays every developer know this fact but they think that is part of the system and nothind can be done about it.
+description2 : Thants where we came. We started to think in posible solutions and we iterate tens of protocols until we found a combination of solutions that enable the blockchain functionality without comromising the criptography specs of the platform.
+aboutItem :
+  - icon : tf-circle-compass
+    title : Block calculation moment and source transactions
+    content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+
+  - icon : tf-hotairballoon
+    title : Database used
+    content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+
+  - icon : tf-circle-compass
+    title : Where the smart contracts are and the requirements
+    content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+
+  - icon : tf-hotairballoon
+    title : Http API
+    content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe

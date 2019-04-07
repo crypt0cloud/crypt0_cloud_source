@@ -1,0 +1,15 @@
+enable : true
+heading : About
+headingSpan : Crypt0.Cloud
+aboutItem :
+- icon : tf-ion-flash
+  title : We're Fast
+  content : The first objective of our design is to create a fast blockchain improving the usual algorithms to create an unique solution to avoid transaction waittime.
+
+- icon : tf-linegraph
+  title : We're SAAS
+  content : We are designed to be fully scalable SAAS platform, with the ability to be deployed in on-premises configurations.
+
+- icon : tf-layers
+  title : We're Hierarchical
+  content : We understad that the corporations have special needs to control their data with that in mind we have created extra layers to control more and different flows for the transactions in the blockchain.
