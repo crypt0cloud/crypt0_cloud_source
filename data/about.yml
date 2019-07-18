@@ -3,6 +3,7 @@ heading : About
 headingSpan : Crypt0.Cloud
 aboutItem :
 - icon : tf-ion-flash
+  bgimg : about_burbuja_1.png
   title : We're Fast
   content : The first objective of our design is to create a fast blockchain improving the usual algorithms to create an unique solution to avoid transaction waittime.
 
