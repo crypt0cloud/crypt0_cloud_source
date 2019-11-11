@@ -25,11 +25,6 @@ summaryLength = 10
     weight = 3
 
     [[menu.nav]]
-    name = "Portfolio"
-    URL = "portfolio"
-    weight = 4
-
-    [[menu.nav]]
     name = "Team"
     URL = "our-team"
     weight = 5
@@ -38,11 +33,6 @@ summaryLength = 10
     name = "Pricing"
     URL = "pricing"
     weight = 6
-
-    [[menu.nav]]
-    name = "Blog"
-    URL = "blog"
-    weight = 7
 
     [[menu.nav]]
     name = "Contact"
@@ -74,7 +64,7 @@ custom_css = ["css/custom.css"]
 
     # call to action
     [params.cta]
-    enable = true
+    enable = false
     title = "Blockchain security without the blockchain problems"
     content = "Redesigning the blockchain protocol to mantain all their cryptographic security without the platform issues."
     btnURL = "https://selfservice.crypt0.cloud/"

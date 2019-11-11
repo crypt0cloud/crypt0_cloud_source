@@ -10,6 +10,7 @@ pricingTable :
     plan :
       - planDetails : 1000 Transactions
       - planDetails : 1 Application
+      - planDetails : for testing purposes
 
   - title : Core
     price : $0.35
@@ -17,7 +18,26 @@ pricingTable :
     btnURL : https://selfservice.crypt0.cloud/
     btnText : Interested
     plan :
-      - planDetails : 1000 Transactions a month
-      - planDetails : 1 Application
-
+      - planDetails : Unlimited Transactions
+      - planDetails : Unlimited Application
+      - planDetails : Memory 3.75 GB / core
+      - planDetails : 5 GB Storage
+      - planDetails : 5 GB Networking
+      - planDetails : In USD
+  
+  - title : Storage
+    price : $0.10
+    time : month / GB
+    btnURL : https://selfservice.crypt0.cloud/
+    btnText : Interested
+    plan :
+      - planDetails : In USD
+  
+  - title : Network
+    price : $0.15
+    time : GB
+    btnURL : https://selfservice.crypt0.cloud/
+    btnText : Interested
+    plan :
+      - planDetails : In USD
   
