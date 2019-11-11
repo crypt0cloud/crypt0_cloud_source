@@ -776,7 +776,7 @@ a:hover {
  Call To Action 1
 ==================================================================*/
 .call-to-action {
-  background-attachment: fixed;
+  /*background-attachment: fixed;*/
 }
 
 .call-to-action h2 {

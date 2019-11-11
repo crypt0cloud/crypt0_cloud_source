@@ -1,9 +1,9 @@
-# gsutil cp -r public/* gs://www.crypt0.cloud
+# gsutil -m cp -r public/* gs://www.crypt0.cloud
 
 baseURL = "http://www.crypt0.cloud/"
 languageCode = "en-us"
 DefaultContentLanguage = "en"
-title = "Crypt0.Cloud"
+title = ""
 theme = "meghna-hugo"
 summaryLength = 10
 
@@ -77,13 +77,13 @@ custom_css = ["css/custom.css"]
     enable = true
     title = "Blockchain security without the blockchain problems"
     content = "Redesigning the blockchain protocol to mantain all their cryptographic security without the platform issues."
-    btnURL = "#"
+    btnURL = "https://selfservice.crypt0.cloud/"
     btnText = "Start a project with us"
 
     # counter
     [params.counter]
     enable = true
-    bgImage = "images/backgrounds/bg-1.jpg"
+    bgImage = "images/backgrounds/bg_SEPARADOR.png"
         [[params.counter.counterItem]]
         title = "Happy Clients"
         icon = "tf-ion-android-happy"
@@ -102,7 +102,7 @@ custom_css = ["css/custom.css"]
         [[params.counter.counterItem]]
         title = "Music Hours"
         icon = "tf-ion-headphone"
-        count = "1500"
+        count = "1600"
 
     # footer
     [params.footer]
@@ -128,7 +128,7 @@ custom_css = ["css/custom.css"]
 
         [[params.footer.socialIcon]]
         icon = "tf-ion-social-linkedin"
-        url = "http://linkedin.com"
+        url = "https://www.linkedin.com/company/crypt0-cloud"
 
         #[[params.footer.socialIcon]]
         #icon = "tf-ion-social-dribbble-outline"

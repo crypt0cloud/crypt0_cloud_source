@@ -2,19 +2,19 @@ enable : true
 heading : Our
 headingSpan : Team
 teamMember :
-  - image : images/team/team-1.jpg
+  - image : images/team/rogelio.jpg
     name : Rogelio Rocha
     designation : CEO/Co-Founder
-    description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+    description : Successful multicultural leader with a proven track record of a high performance in Digital Transformation Consultancy, Business Ecosystem Development, Revenue Generation and Consistent Performance of Global Operations
     socialIcon :
       - icon : tf-ion-social-linkedin
         url : "https://www.linkedin.com/in/rogeliorocha/"
 
 
-  - image : images/team/team-2.jpg
+  - image : images/team/angel.jpg
     name : Angel Espinoza
     designation : CTO/Co-Founder
-    description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+    description : Great Solutions Architect, Winner of several development contests, focused in innovation and entrepreneurship, with a vast experience designing and developing cloud apps, machine learning, applied cryptography, data security and transactions, mobile development, blockchain, iOT and Enginery Optimization with Genetic Algorithms
     socialIcon :
       - icon : tf-ion-social-twitter
         url : "http://twitter.com/onlyangel"

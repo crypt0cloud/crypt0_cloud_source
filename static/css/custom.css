@@ -13,3 +13,24 @@ background-image: url('/images/backgrounds/bgazul.png');
 .texto-blanco {
     color: azure;
 }
+
+@media (min-width: 576px){
+    .cta-text {
+        margin-left: 48%;
+        width: 50%;
+    }
+}
+
+@media (min-width: 768px){
+    .cta-text {
+        margin-left: 37%;
+        width: 57%;
+    }
+}
+
+@media (min-width: 992px){
+    .cta-text {
+        margin-left: 25%;
+        width: 71%;
+    }
+}

@@ -5,12 +5,12 @@ aboutItem :
 - icon : tf-ion-flash
   bgimg : about_burbuja_1.png
   title : We're Fast
-  content : The first objective of our design is to create a fast blockchain improving the usual algorithms to create an unique solution to avoid transaction waittime.
-
-- icon : tf-linegraph
-  title : We're SAAS
-  content : We are designed to be fully scalable SAAS platform, with the ability to be deployed in on-premises configurations.
+  content : Our first objective of our design is to create a fast blockchain platform, modifiing the algorithms to create an unique solution to avoid transaction waittime.
 
 - icon : tf-layers
   title : We're Hierarchical
   content : We understad that the corporations have special needs to control their data with that in mind we have created extra layers to control more and different flows for the transactions in the blockchain.
+
+- icon : tf-linegraph
+  title : We're SAAS
+  content : We are designed to be fully scalable, multicloud, redundan SAAS platform. Where every node can be load balanced and distributed between different clouds for redundancy. 

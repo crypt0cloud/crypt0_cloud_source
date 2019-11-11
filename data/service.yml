@@ -3,25 +3,25 @@ heading : Our Products
 headingSpan :  and Services
 serviceItem :
   - icon : tf-globe
-    title : Public SAAS Platform
-    content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    title : Private SAAS Platform
+    content : Create your deployments dinamically in our self service portal. 
 
   - icon : tf-ion-laptop
-    title : Private Blockchain integrations
-    content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    title : On premises Blockchain integrations
+    content : Crypt0.Cloud can be integrated in any enviroment.
 
   - icon : tf-genius
     title : Training and Consulting
-    content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    content : We help you and your team to create sucessful Blockchain Solutions.
 
   - icon : tf-dial
     title : Integration SDK
-    content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    content : To create faster Solutions we provide several Development SDK. 
 
   - icon : tf-target3
     title : (Soon) Mobile App
-    content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    content : Giving the hability of hte end users to store their credentials in their phone and sign with those.
 
   - icon : tf-lifesaver
     title : (Soon) Mobile libraries
-    content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    content : If your usecase need integration in your mobile application we will provide libraries to integrate with your current usecase.

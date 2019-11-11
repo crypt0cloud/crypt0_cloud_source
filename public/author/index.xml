@@ -1,24 +1,15 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Author on Crypt0.Cloud</title>
+    <title>Author on </title>
     <link>http://www.crypt0.cloud/author/</link>
-    <description>Recent content in Author on Crypt0.Cloud</description>
+    <description>Recent content in Author on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 12 Sep 2018 12:52:36 +0600</lastBuildDate>
+    <lastBuildDate>Wed, 12 Sep 2018 14:51:12 +0600</lastBuildDate>
     
 	<atom:link href="http://www.crypt0.cloud/author/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title></title>
-      <link>http://www.crypt0.cloud/author/jamica-jock/</link>
-      <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
-      
-      <guid>http://www.crypt0.cloud/author/jamica-jock/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin eu magna arcu.</description>
-    </item>
     
     <item>
       <title></title>
@@ -36,6 +27,15 @@
       
       <guid>http://www.crypt0.cloud/author/somrat/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://www.crypt0.cloud/author/jamica-jock/</link>
+      <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
+      
+      <guid>http://www.crypt0.cloud/author/jamica-jock/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin eu magna arcu.</description>
     </item>
     
     <item>
