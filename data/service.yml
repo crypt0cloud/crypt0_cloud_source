@@ -4,7 +4,7 @@ headingSpan :  and Services
 serviceItem :
   - icon : tf-globe
     title : Private SAAS Platform
-    content : Create your deployments dinamically in our self service portal. 
+    content : To create deployments dynamically through our self service portal.
 
   - icon : tf-ion-laptop
     title : On premises Blockchain integrations
@@ -19,9 +19,9 @@ serviceItem :
     content : To create faster Solutions we provide several Development SDK. 
 
   - icon : tf-target3
-    title : (Soon) Mobile App
-    content : Giving the hability of hte end users to store their credentials in their phone and sign with those.
+    title : (coming up soon) Mobile App
+    content : Giving the ability to end users of storing their credentials in their mobile and signing in from those.
 
   - icon : tf-lifesaver
-    title : (Soon) Mobile libraries
-    content : If your usecase need integration in your mobile application we will provide libraries to integrate with your current usecase.
+    title : (coming up soon) Mobile Libraries
+    content : If your use case need integration in your mobile application we will provide libraries to integrate it to your current use case.

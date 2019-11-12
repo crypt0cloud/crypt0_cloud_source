@@ -7,6 +7,8 @@ teamMember :
     designation : CEO/Co-Founder
     description : Successful multicultural leader with a proven track record of a high performance in Digital Transformation Consultancy, Business Ecosystem Development, Revenue Generation and Consistent Performance of Global Operations
     socialIcon :
+      - icon : tf-ion-social-twitter
+        url : "http://twitter.com/rogelio_rocha"
       - icon : tf-ion-social-linkedin
         url : "https://www.linkedin.com/in/rogeliorocha/"
 
@@ -14,7 +16,7 @@ teamMember :
   - image : images/team/angel.jpg
     name : Angel Espinoza
     designation : CTO/Co-Founder
-    description : Great Solutions Architect, Winner of several development contests, focused in innovation and entrepreneurship, with a vast experience designing and developing cloud apps, machine learning, applied cryptography, data security and transactions, mobile development, blockchain, iOT and Enginery Optimization with Genetic Algorithms
+    description : Recognized Solutions Architect, Winner of several development contests, focused in innovation and entrepreneurship, with a vast experience designing and developing cloud apps, machine learning, applied cryptography, data security and transactions, mobile development, blockchain, iOT and Enginery Optimization with Genetic Algorithms
     socialIcon :
       - icon : tf-ion-social-twitter
         url : "http://twitter.com/onlyangel"

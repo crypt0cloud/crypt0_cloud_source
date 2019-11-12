@@ -1,35 +1,36 @@
 enable : true
 image : images/about/about2head.png
 title : We’re A New kind of Blockchian.
-description : With the begining of the blockchain revolution we observed that the protocol could have problems with efficiency. After evaluting for a while we proved that, nowadays every blockain developer know this fact but they think that is part of the system and nothind can be done about it.
-description2 : Thants where we came. We started to think in posible solutions and we iterate tens of protocols until we found a combination of solutions that enable the blockchain functionality and open the posibility to innovation without compromising the criptography specs of the platform.
+description : With the beginning of the blockchain revolution we observed that the protocol might have some efficiency problems as more new users and processes are relying on this technology. After evaluating and observing such evolution for a while we proved our theory Saturation is making of public blockchains slow and complicated. Nowadays every blockchain developer or user know on this fact but they think this is part of the system and nothing can be done about it.
+description2 : That's where we're coming from. We started to think about possible solutions on these issues so we iterated tens of protocols until we found a combination of solutions that enable  blockchain functionality for private or consortium environments opening the possibility to innovate on the current idea of blockchain without compromising the cryptography specifications of the platform.
+
 aboutItem :
   - icon : tf-circle-compass
     image : CALCULADORA.png
     title : Cryptography
-    content : ED25519 is the fastest Eliptic Curve Asimetric Signing Algorithm.
+    content : ED25519 is the fastest Elliptic Curve Asymmetric Signing Algorithm.
 
   - icon : tf-hotairballoon
     image : DATABASE.png
     title : Block calculation moment
-    content : The order to calculate a block is timelly based with an authorization protocol.
+    content : Calculating a new block is based in time units controlled throughout specific authorization protocols.
 
   - icon : tf-circle-compass
     image : FILE.png
     title : Apps Where the smart contracts are and the requirements
-    content : Every transaction is vinculated to an registered application, that is latter called with the result of the transaction
+    content : Every transaction is vinculated to a registered application, that is latter called back with the result of the transaction
 
   - icon : tf-hotairballoon
     image : HTTP.png
     title : Transactions Group
-    content : Transactions can algo be grouped allowing it easy identification and logic organization, ennabling new use cases. 
+    content : Transactions are also arranged in groups allowing its easy identification and logic organization, based on specific purposes, enabling new use cases.
   
   - icon : tf-circle-compass
     image : FILE.png
     title : Nodes Categories
-    content : Every deployment need one Controller Node that validate different Authorizations tasks, all the other Nodes are Calculation Nodes that calculate and store transactions.
+    content : Every deployment needs a Controller Node that validate different Authorization tasks, all the other Nodes are Calculation Nodes that determine and store transactions.
 
   - icon : tf-hotairballoon
     image : HTTP.png
     title : Node Redundancy from single to multy cloud
-    content : Every node can be divided in Compute and Storage instances, that can be instanced in the same network or in totally different Cloud Providers. Giving the node the hability to survive even if an entire datacenter fails.
+    content : Every node can be divided into Compute and Storage instances, that can be instanced in the same network or in totally different Cloud Providers. Giving the node the ability to survive even if an entire datacenter fails.
