@@ -7,12 +7,12 @@ serviceItem :
     content : To create deployments dynamically through our self service portal.
 
   - icon : tf-ion-laptop
-    title : On premises Blockchain integrations
+    title : On premises DLT integrations
     content : Crypt0.Cloud can be integrated in any enviroment.
 
   - icon : tf-genius
     title : Training and Consulting
-    content : We help you and your team to create sucessful Blockchain Solutions.
+    content : We help you and your team to create sucessful DLT Solutions.
 
   - icon : tf-dial
     title : Integration SDK

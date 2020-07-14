@@ -1,6 +1,6 @@
 enable : true
 image : images/about/about2head.png
-title : We’re A New kind of Blockchian.
+title : We’re A New kind of DLT.
 description : With the beginning of the blockchain revolution we observed that the protocol might have some efficiency problems as more new users and processes are relying on this technology. After evaluating and observing such evolution for a while we proved our theory Saturation is making of public blockchains slow and complicated. Nowadays every blockchain developer or user know on this fact but they think this is part of the system and nothing can be done about it.
 description2 : That's where we're coming from. We started to think about possible solutions on these issues so we iterated tens of protocols until we found a combination of solutions that enable  blockchain functionality for private or consortium environments opening the possibility to innovate on the current idea of blockchain without compromising the cryptography specifications of the platform.
 

@@ -45,7 +45,7 @@ home= "Home"
 logo = "images/logo.png"
 gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
 # Meta data
-description = "A new way to Blockchain"
+description = "The next-generation platform for private business transactions"
 author = "Crypt0.Cloud Team"
 # Google Analitycs
 googleAnalitycsID = "UA-137866091-1"
@@ -56,8 +56,8 @@ custom_css = ["css/custom.css"]
     enable = true
     bgImage = "images/slider/hero-area.jpg"
     icon = "tf-ion-play"
-    heading = "Experience the new way to Blockchain"
-    content= "Integrating a Blockchain didnt have to be hard."
+    heading = "The next-generation platform for private business transactions"
+    content= "Crypt0.Cloud is a next-generation distributed ledger technology platform that leverages some of the basic precepts of blockchain technology to help companies in certifying business transactions in a fast, private and secure environment, simplifying business operations."
     btn = true
     btnText="Explore Us"
     btnURL="#services"

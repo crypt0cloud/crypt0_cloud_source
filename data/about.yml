@@ -5,11 +5,11 @@ aboutItem :
 - icon : tf-ion-flash
   bgimg : about_burbuja_1.png
   title : We're Fast
-  content : The first objective of our design is to create a fast blockchain platform, modifying the algorithms to create a unique solution to avoid transaction wait time.
+  content : The first objective of our design is to create a fast DLT platform, modifying the algorithms to create a unique solution to avoid transaction wait time.
 
 - icon : tf-layers
   title : We're Hierarchical
-  content : We understand the corporations and governments have special needs to control their data; with that in mind, we have created extra layers to control efficiently different flows of transactions in a blockchain.
+  content : We understand the corporations and governments have special needs to control their data; with that in mind, we have created extra layers to control efficiently different flows of transactions in a DLT.
 
 - icon : tf-linegraph
   title : We're SAAS
